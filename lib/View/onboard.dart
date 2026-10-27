@@ -9,7 +9,7 @@ class OnBoardPage extends StatefulWidget {
   @override
   State<OnBoardPage> createState() => _OnBoardPageState();
 }
-
+//onboard page state
 class _OnBoardPageState extends State<OnBoardPage> {
   int currentIndex = 0;
   Widget dotIndicator(int index) {
